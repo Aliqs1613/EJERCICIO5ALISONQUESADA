@@ -1,0 +1,29 @@
+ul{
+   display: flex;
+    background-color:#D6AFDC ;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    }
+
+    
+
+        
+        li a{
+
+            display: block;
+            color: #fff;
+            text-decoration: none;
+            padding: 20px;
+            margin: 20px;
+            font-size: 20px;
+            
+            }
+
+        
+        li a:hover{ background-color: blue;
+        
+        }
+        a:hover{
+            cursor: pointer;
+        }
